@@ -6,7 +6,7 @@ alt="hacker operating laptop" style="float: right; width: 400px;" />
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/udaycodes004/count.svg" />
 </p>
 
 # 💫 About Me:
@@ -38,7 +38,7 @@ alt="hacker operating laptop" style="float: right; width: 400px;" />
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=udaycodes004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=udaycodes004&icon=7&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+

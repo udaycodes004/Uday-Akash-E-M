@@ -17,6 +17,8 @@ alt="hacker operating laptop" style="float: right; width: 400px;" />
 <a href="https://www.linkedin.com/in/uday-akash-e-m-2b31a3261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday akash e m" height="30" width="40" /></a>
 <a href="https://instagram.com/uday._.njr1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uday._.njr1k" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/udaycodesleet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="udaycodesleet" height="30" width="40" /></a>
+<a href="https://www.skillrack.com/faces/resume.xhtml?id=415178&key=70c65683bebff411fe32260cd350e1d5e42e2113" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/C4D0BAQEq2uAbuhweNw/company-logo_200_200/company-logo_200_200/0/1631340864382?e=2147483647&v=beta&t=eI1RmvHAoToulNMQgS9nX3PSR50hBlL8u8mQBiWql-c" alt="udaycodesleet" height="30" width="40" /></a>
+</p>
 </p>
 
 

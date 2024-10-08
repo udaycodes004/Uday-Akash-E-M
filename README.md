@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Uday Akash E M</h1>
 <h3 align="center">A passionate Web3.0 Full-stack Developer from India</h3>
 <p align="center" alt="coding" />
-<img src="https://cdn-learn.adafruit.com/assets/assets/000/112/622/medium800/programming_GitHub_logo_with_mark.png?1656187481"
-alt="hacker operating laptop" style="float: right; width: 400px;" />
+<img src="https://it.gwu.edu/sites/g/files/zaxdzs5486/files/styles/default/public/2023-10/github_logo.png?itok=UypeFJn4"
+alt="GITHUB BANNER" style="float: right; width: 400px;" />
 
 <p align="center"> 
   Visitor count<br>

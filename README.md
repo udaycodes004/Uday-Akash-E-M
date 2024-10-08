@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uday Akash E M</h1>
+p<h1 align="center">Hi 👋, I'm Uday Akash E M</h1>
 <h3 align="center">A passionate Web3.0 Full-stack Developer from India</h3>
 <p align="center" alt="coding" />
 <img src="https://it.gwu.edu/sites/g/files/zaxdzs5486/files/styles/default/public/2023-10/github_logo.png?itok=UypeFJn4"
